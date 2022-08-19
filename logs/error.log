@@ -1,0 +1,404 @@
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-03T14:23:19.232Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-03T14:23:19.238Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T15:19:07.524Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:15:05.147Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:16:13.859Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:17:24.187Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:19:09.663Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:19:53.990Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:22:46.727Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:23:24.739Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:24:39.296Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:25:30.790Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:26:03.912Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:26:59.541Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:27:14.924Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-04T16:06:23.809Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-04T16:06:23.824Z'
+}
+{
+  message: 'error ReferenceError: whiteList is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:01:29.522Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:11.953Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:21.333Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:25.713Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:32.604Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:42.896Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:46.836Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:34.611Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:42.729Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:48.373Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:55.601Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:08:13.806Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:10:08.748Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:11:17.935Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:11:24.596Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:12:02.286Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:12:58.112Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:05.667Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:33.986Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:37.961Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:45.892Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:15:28.779Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:15:49.356Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:19.665Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:27.921Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:52.233Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:08.973Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:22.612Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:39.532Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:47.425Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:44:57.725Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:44:57.884Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:45:52.263Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:45:52.367Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:50:38.766Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:55:37.944Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:08:18.860Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:08:29.271Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:12:52.189Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:05:56.230Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:07:03.172Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:28:30.756Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:07.149Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:17.572Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:45.958Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:31:48.444Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:33:24.365Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:51:06.498Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:51:43.550Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:52:50.077Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:53:11.472Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:53:58.468Z'
+}
+{
+  message: "Post Productos - Error: TypeError: Cannot read properties of undefined (reading 'save')",
+  level: 'error',
+  timestamp: '2022-08-16T18:19:50.642Z'
+}
+{
+  message: "Post Productos - Error: TypeError: Cannot read properties of undefined (reading 'save')",
+  level: 'error',
+  timestamp: '2022-08-16T18:20:18.956Z'
+}
+{
+  message: "Post Productos - Error: TypeError: Cannot read properties of undefined (reading 'save')",
+  level: 'error',
+  timestamp: '2022-08-16T18:31:32.345Z'
+}
+{
+  message: "Post Productos - Error: TypeError: Cannot read properties of undefined (reading 'save')",
+  level: 'error',
+  timestamp: '2022-08-16T18:31:45.092Z'
+}
+{
+  message: "Post Productos - Error: TypeError: Cannot read properties of undefined (reading 'save')",
+  level: 'error',
+  timestamp: '2022-08-16T18:37:35.240Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-08-16T19:09:58.501Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-08-16T19:09:58.535Z'
+}
+{
+  message: 'ERROR AL ENVIAR CORREO A: nahuel1116@gmail.com - ERROR: 534-5.7.9 Application-specific password required. Learn more at\n' +
+    '534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor b20-20020a056830311400b00636c6108dfasm2012281ots.28 - gsmtp',
+  level: 'error',
+  timestamp: '2022-08-16T19:09:58.732Z'
+}

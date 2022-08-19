@@ -1,0 +1,1133 @@
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-08-16T16:55:57.269Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-08-16T16:55:58.079Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdehfW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:10:35.904Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdehtL - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:10:36.759Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdeiWV - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:10:39.395Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b752b64267dd93dcc14019"),\n' +
+    '  created_at: 2022-06-25T18:23:50.258Z,\n' +
+    '  __v: 0,\n' +
+    "  username: 'challenge@alkemy.org',\n" +
+    "  nombre: 'Nahuel',\n" +
+    "  apellido: 'De Fazio',\n" +
+    "  domicilio: 'aaaaaaaaaaa',\n" +
+    "  localidad: 'Villa Adelina',\n" +
+    "  provincia: 'Buenos Aires',\n" +
+    "  email: 'challenge@alkemy.org',\n" +
+    '  dni: 33333333333,\n' +
+    "  codPais: '54',\n" +
+    "  tel: '+541159560376',\n" +
+    "  password: '$2b$10$7pYBe72RbTtRuNDE0xtji.rlfx6tT..UXnzhX0JptxfdYTQ4pdVzi',\n" +
+    "  img: 'vici-astrix-1656181425198.png',\n" +
+    '  createdAt: 1658601696267,\n' +
+    '  updatedAt: 1658601696267\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-08-16T17:10:43.456Z'
+}
+{
+  message: 'vici-astrix-1656181425198.png',
+  level: 'info',
+  timestamp: '2022-08-16T17:10:43.607Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdejhC - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:10:44.174Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdekw8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:10:49.244Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdem9I - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:10:54.308Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdenOS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:10:59.358Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdeodR - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:04.429Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdepsi - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:09.502Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAder60 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:14.579Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdesLC - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:19.630Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdetaT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:24.719Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdeups - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:29.800Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdew31 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:34.852Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdexI3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:39.928Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdeyXO - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:45.001Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdezmX - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:50.068Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAde-_s - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:11:55.145Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf0F8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:00.220Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf1UN - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:05.290Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf2jk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:10.369Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf42L - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:15.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf5V_ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:21.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf6zl - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:27.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf8RU - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:33.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf9v9 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:39.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfBM- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:45.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfCqt - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:51.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfEIb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:12:57.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfFmM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:03.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfHDw - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:09.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfIhg - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:15.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfK9Y - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:21.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfLdE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:27.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfN50 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:33.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfOYo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:39.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfQ0W - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:45.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfRUE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:51.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfSxx - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:13:57.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfUPl - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:03.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfVtb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:09.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfXLF - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:15.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfYp5 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:21.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfaGh - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:27.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfbkP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:33.771Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfdCN - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:39.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfeg7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:45.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfg7r - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:51.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfhbP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:14:57.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfj3A - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:03.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfkX5 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:09.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfl-f - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:15.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfnSQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:21.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfowA - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:27.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfqO2 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:33.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfrrk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:39.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdftJW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:45.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfunF - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:51.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfwEy - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:15:57.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfxih - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:03.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdfzAQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:09.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdf-eF - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:15.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg065 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:21.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg1Zf - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:27.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg31d - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:33.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg4VK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:39.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg5z7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:45.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg7Qr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:51.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg8ud - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:16:57.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgAMK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:03.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgBq6 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:09.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgDHs - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:15.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgEle - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:21.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgGDA - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:27.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgHh7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:33.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgJ8i - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:39.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgKcP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:45.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgM4C - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:51.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgNY6 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:17:57.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgO_q - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:03.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgQTS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:09.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgRxM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:15.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgTOz - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:21.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgUsj - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:27.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgWKW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:33.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgXoG - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:39.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgZG1 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:45.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgajr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:51.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgcBS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:18:57.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgdfA - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:03.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgf76 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:09.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdggae - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:17.529Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgiIB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:22.781Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgjlq - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:28.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdglDZ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:34.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgmhT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:40.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgo92 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:46.771Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgpcu - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:52.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgr4Z - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:19:58.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgsYO - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:04.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgu0D - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:10.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgvTp - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:16.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgwxf - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:22.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgyPM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:28.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdgztE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:34.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdg_Ku - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:40.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh0oh - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:46.782Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh2GS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:52.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh3k3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:20:58.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh5Bt - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:04.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh6fl - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:10.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh87R - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:16.782Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh9b2 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:22.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhB2y - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:28.782Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhCWe - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:34.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhD-J - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:40.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhFS8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:46.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhGvn - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:52.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhINc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:21:58.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhJrU - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:04.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhLJE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:10.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhMmt - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:16.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhOEe - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:22.781Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhPiO - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:28.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhRA0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:34.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhSdu - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:40.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhU5k - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:46.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhVZJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:52.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhX15 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:22:58.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhYUn - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:04.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhZyi - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:10.782Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhbQS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:16.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhcuG - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:22.788Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdheLq - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:28.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhfpm - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:34.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhhHJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:40.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhil3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:46.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhkCu - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:52.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhlga - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:23:58.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhn8W - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:04.790Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhocD - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:10.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhq3p - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:16.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhrXY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:22.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhs_I - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:28.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhuTE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:34.789Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhvwo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:40.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhxOf - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:46.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdhysJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:52.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh-K3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:24:58.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdh_nw - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:04.781Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdi1FY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:10.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdi2jJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:16.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdi4BE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:22.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdi5ev - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:30.956Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdi7bp - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:36.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdi93b - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:42.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiAXK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:48.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiB_E - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:25:54.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiDSn - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:00.772Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiEwk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:06.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiGOL - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:12.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiHs3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:18.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiJJo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:24.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiKni - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:30.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiMFS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:36.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiNj8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:42.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiPAo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:48.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiQel - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:26:54.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiS6I - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:00.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiTa3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:06.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiV1w - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:12.781Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiWVg - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:18.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiXzW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:24.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiZR8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:30.780Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiau- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:36.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdicMk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:42.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdidqJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:48.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdifI6 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:27:54.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdigm0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:00.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiiDk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:06.787Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdijhP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:12.781Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdil9E - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:18.786Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdimcs - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:24.777Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdio4k - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:30.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdipYO - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:36.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdir0D - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:42.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdisT- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:48.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAditxi - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:28:54.782Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdivPJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:00.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiwtC - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:06.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdiyKs - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:12.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdizof - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:18.782Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdi_GJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:24.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdj0k2 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:30.775Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdj2Bo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:36.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdj3fZ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:42.773Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdj57H - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:48.774Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdj6b8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:29:54.779Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdj82x - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:00.785Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdj9Wc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:06.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjA-S - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:12.784Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjCS0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:18.771Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjDvx - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:24.781Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjFNd - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:30.778Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjGrM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:36.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjIJB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:42.783Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjJmv - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:48.788Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjLEa - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:30:54.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjMch - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:31:00.420Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjNrv - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:31:05.468Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjP4u - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:31:10.523Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=OAdjQJr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-08-16T17:31:15.575Z'
+}
+{
+  message: 'Get Productos/categoria/distribucion',
+  level: 'info',
+  timestamp: '2022-08-16T17:31:17.162Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-08-16T17:44:03.074Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:44:04.765Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-08-16T17:45:04.053Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:45:05.675Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-08-16T17:48:35.363Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-08-16T17:48:52.613Z'
+}

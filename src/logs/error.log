@@ -1,0 +1,10 @@
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:44:04.765Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-08-16T17:45:05.675Z'
+}
